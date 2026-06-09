@@ -2,7 +2,7 @@
 
 > Segmentation des profils clients et modélisation prédictive de la souscription à un dépôt à terme bancaire
 
-**Auteur :** Emmanuel KOURAOGO — M2 IMSD, 2025-2026
+**Auteur :** Emmanuel KOURAOGO 
 **Encadrant :** Laurent MAGON
 
 ---
