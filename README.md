@@ -1,4 +1,4 @@
-# Data Mining — Bank Marketing UCI
+# Data Mining - Bank Marketing UCI
 
 > Segmentation des profils clients et modélisation prédictive de la souscription à un dépôt à terme bancaire
 
