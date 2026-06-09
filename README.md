@@ -3,6 +3,7 @@
 > Segmentation des profils clients et modélisation prédictive de la souscription à un dépôt à terme bancaire
 
 **Auteur :** Emmanuel KOURAOGO 
+
 **Encadrant :** Laurent MAGON
 
 ---
